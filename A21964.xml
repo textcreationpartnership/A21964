@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King forasmuch as it cannot be doubted, but as the Kings most excellent Maiestie hath taken great contentment in the most dutifull and deuoted affection of his subiects of this realme ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21964</idno>
+            <idno type="STC">STC 8303</idno>
+            <idno type="STC">ESTC S3648</idno>
+            <idno type="EEBO-CITATION">33150685</idno>
+            <idno type="OCLC">ocm 33150685</idno>
+            <idno type="VID">28707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:107)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King forasmuch as it cannot be doubted, but as the Kings most excellent Maiestie hath taken great contentment in the most dutifull and deuoted affection of his subiects of this realme ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1603-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Historiated initial. Line 1 of text ends "Ma-".</note>
+                  <note>Proclamation for continuing officals in their offices.</note>
+                  <note>"Giuen at his Maiesties Pallace of Whitehall, the fifth of Aprill, in the first yeere of his Maiesties Reigne."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Privy Council.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28707:1"/>
+            <!-- PDF PAGE 34 -->
+            <head>
+               <figure>
+                  <figDesc>garland embellished with Tudor rose</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it cannot be doubted, but as the Kings moſt excellent Ma<g ref="char:EOLhyphen"/>ieſtie hath taken great contentment in the moſts dutifull and deuoted af<g ref="char:EOLhyphen"/>fection of his Subiects of this Realme, teſtified by the vniuerſall and ioyfull conſent in publiſhing his Right, and acknowledgement of his Highnes for their Souereigne; ſo on the other ſide, his Maieſties Sub<g ref="char:EOLhyphen"/>iects will find much ioy and comfort by receiuing knowledge of his gra<g ref="char:EOLhyphen"/>cious and louing acceptance of their ſaid moſt humble and moſt affectio<g ref="char:EOLhyphen"/>nate ſeruice and duetie: It is therfore very meet, That (his Maieſtie ha<g ref="char:EOLhyphen"/>uing of late, by his ſeuerall Letters of the eight and twentieth, and of the laſt of March, vnto ſuch of vs the Nobilitie of this Realme, and others that were of the late Queenes Priuie Counſel, as are here at his Highneſſe Pallace of <hi>Whitehall</hi> aſſembled for the ſeruice of his Maieſtie and the State, ſignified his Gracious acceptance, and Princely thankefulneſſe vnto all his Subiects, of whatſoeuer degree or condition, for ſuch and ſo extraordinary demonſtration of their good will, and commanding the ſame to be further notified to all parts) we ſhould publiſh and declare the ſame, by this Proclamation, in his name. And withall, that we ſhould declare and make knowen his Maieſties pleaſure deliuered likewiſe in the ſayd Letters, touching the neceſſary continu<g ref="char:EOLhyphen"/>ation (during his abſence, or vntill it ſhall pleaſe his Highneſſe to giue other commandement and direction) of ſuch orders and proceedings for the preſeruation of Peace, adminiſtration of Iuſtice, and gouernement of the State, as were formerly eſtabliſhed, and ſtood in force imme<g ref="char:EOLhyphen"/>diatly before the late Queenes deceaſſe, which chiefly, and in effect is this: That whereas vpon the deceaſſe of the late Queenes Maieſtie, the authority of the moſt part of the Offices and places of Iuriſdiction and gouernement within this Realme, and in the Realme of Ireland, did ceaſe and faile, the Souereigne perſon failing from whom the ſame were deriued, and thereupon through doubtfulneſſe, and want of authority for execution, in ſuch perſons as were inueſted in the ſaid Offices and places, the ſetled and ordinary courſe of the affaires of the State (if reme<g ref="char:EOLhyphen"/>die were not prouided) might receiue diſturbance and preiudice by diſcontinuance and interrup<g ref="char:EOLhyphen"/>tion:
+<pb facs="tcp:28707:2"/>
+               <!-- PDF PAGE 35 -->His Maieſtie in his Princely wiſedome, and care of the State (reſeruing vnto his owne iudgement hereafter the reformation and redreſſe of any abuſes in miſgouernement vpon better knowledge taken thereof, in his due time) is pleaſed, and hath ſo expreſly ſignified, That all per<g ref="char:EOLhyphen"/>ſons, that at the time of the late Queenes Maieſties deceaſſe, were duely and lawfully poſſeſſed of any place or Office of authoritie, iuriſdiction, or gouernment, either Ciuill or Martiall with<g ref="char:EOLhyphen"/>in this Realme, or in the Realme of Ireland, And namely, all Lieutenants, Sheriffes, de<g ref="char:EOLhyphen"/>putie Lieutenants, Commiſſioners of Muſters, Iuſtices of the Peace, and all others in place of Gouernment, either meaner or ſuperiour, (as aforeſaid) ſhall bee, and ſhall ſo holde them<g ref="char:EOLhyphen"/>ſelues continued in the ſaid places and Offices, as formerly they helde and enioyed the ſame, vn<g ref="char:EOLhyphen"/>till his Maieſties pleaſure bee further knowen. And that in the meane while (for the preſerua<g ref="char:EOLhyphen"/>tion of Peace, and neceſſarie proceeding in matters of Iuſtice, and for ſafetie of the State) all the ſayd perſons, of whatſoeuer degree or condition, may not faile, euery one ſeuerally according to his place, office, or charge, to proceed in the performance and execution of all dueties thereto be<g ref="char:EOLhyphen"/>longing, as formerly appertained to them and euery of them, while the late Queenes Maieſtie was liuing.</p>
+            <p>And albeit the earneſt and longing deſire in all his Maieſties Subiects, to enioy the ſight of his Royal perſon and preſence (which hath moued very many of good degree and qualitie, and ſome of them hauing place of charge in the Countrey where they dwell, to haſten and take their iour<g ref="char:EOLhyphen"/>neys at this time vnto his Highneſſe) be, for it ſelfe, commendable in them, and acceptable to his Maieſtie, being an Argument of their abundant ioy and gladneſſe: Neuertheleſſe, becauſe the ouer-much, and too frequent reſort and concourſe of people into thoſe parts where his Maieſtie as yet remaineth, or which are farre diſtant from the heart of this Realme, is at this preſent in<g ref="char:EOLhyphen"/>conuenient, and may prooue more dangerous, both in reſpect that the Countrey whither ſuch extraordinarie reſort is made, ſhall bee ouercharged with multitude, and thereof ſcarcitie and dearth is like enough to proceede, and alſo becauſe theſe more inward parts of the Realme ſhall in the meane while be impayred in hoſpitalitie, and being deſtitute of ſuch aſſiſtance as is need<g ref="char:EOLhyphen"/>full, it may be doubted to what danger or diſturbance, forreine or domeſticall, they may bee expoſed: His Maieſtie therefore in his wiſedome both gratiouſly accepting the good will of his Subiects, and withall regarding what is conuenient for his ſeruice, and for the ſecuritie of the State at this time, it pleaſed, and doeth require, That ſuch concourſe and reſort into thoſe parts be forborne, &amp; aboue al others, of thoſe perſons that haue any place of charge or office, either on the Seacoaſt or the In-land, or are of good degree &amp; qualitie in their Countrey: And that ſuch order<g ref="char:EOLhyphen"/>ly courſe be hereafter holden (in the diſcretion of all ſuch perſons as aforeſaid) for repaire and re<g ref="char:EOLhyphen"/>ſort to his Highneſſe preſence at his comming into this Realme, as may conueniently ſtand and agree with the care and ſeruice neceſſarily belonging<g ref="char:punc">▪</g> and to bee perfourmed in all partes of the
+<pb facs="tcp:28707:3"/>
+               <!-- PDF PAGE 36 -->Realme, to his Highneſſe and the State, His Maieſtie being no leſſe gratiouſly diſpoſed, and willing (in all conuenient ſort) to giue contentment and pleaſure to his owne eyes and minde, by the ſight of his moſt Loyall and louing Subiects, then they are infinitely deſirous to enioy the happineſſe of his Maieſties perſon and preſence, who (wee doubt not) long before this time is already ſafe in this his Realme of England, though his Maieſtie forbeareth to come preſently to his Citie of London, vntill thoſe things can be ſet in readineſſe, which are fit and honourable for the reception of ſo great and mightie a King.</p>
+            <closer>
+               <dateline>Giuen at his Maieſties Pallace of Whitehall, <date>the fifth of Aprill, in the firſt yeere of his Maieſties Reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie.</p>
+            <p>Anno Dom. 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
